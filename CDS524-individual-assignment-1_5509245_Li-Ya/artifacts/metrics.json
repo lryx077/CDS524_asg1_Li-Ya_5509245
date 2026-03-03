@@ -1,0 +1,10 @@
+{
+  "episodes": 4000,
+  "grid": 12,
+  "alpha": 0.1,
+  "gamma": 0.95,
+  "eps_start": 1.0,
+  "eps_end": 0.05,
+  "max_steps": 500,
+  "mean_score_last_200": 11.385
+}
